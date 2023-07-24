@@ -1,3 +1,6 @@
+--###############--
+--## 𝐆𝐄𝐌𝐄𝐖𝐎𝐋𝐅 ##--
+--###############--
 exports('getSharedObject', function()
 	return ESX
 end)
