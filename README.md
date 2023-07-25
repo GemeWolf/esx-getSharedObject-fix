@@ -1,4 +1,4 @@
-# Upgrade your ESX without fear of losing your acripts! 
+# Upgrade your ESX without fear of losing your scripts! 
 > Compatible only with `qs-inventory` v2 and `ox_inventory`
 
 Create a repository for ESX in case you have the old version like 1.8.5 or older and want to upgrade, but don't want to deal with the typical esx:getSharedObject Deprecation with your scripts, this is where I come in and the repository will make it so there is no need to upgrade your scripts or even lose them, you can upgrade your ESX to the latest versions without worrying about anything.🥳
